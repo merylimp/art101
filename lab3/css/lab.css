@@ -1,9 +1,23 @@
 /* Here we can set styles for this lab page that we don't want to effect others pages */
 
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
-.minor-section {
+
+
+
+h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: xx-large;
+  color: #1e2e1e;}
+  
+  .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
-  }
+    border: solid 1px #fdd8f7;
+    background-color: #ecdef1;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    
+}
+
+
+
+
