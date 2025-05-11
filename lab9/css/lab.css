@@ -1,0 +1,44 @@
+#Challenge {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 3px #ffffff;
+    background-color: hsl(304, 91%, 91%);
+   
+  }
+
+  #Problems {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 3px #ffffff;
+    background-color: hsl(304, 56%, 73%);
+   
+  }
+
+
+  #Results {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 3px #ffffff;
+    background-color: hsl(188, 51%, 80%);
+   
+  }
+
+
+
+  #Script {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 3px #ffffff;
+    background-color: hsl(138, 100%, 85%);
+   
+  }
+
+
+
+
+.special {
+    background-color: aquamarine;
+    border: solid 50px pink;
+    color: green;
+    font-weight: bold;
+}
