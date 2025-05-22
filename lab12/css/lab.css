@@ -2,7 +2,7 @@
     padding: 10px;
     margin-bottom: 10px;
     border: solid 3px #ffffff;
-    background-color: hsl(161, 100%, 91%);
+    background-color: hsl(45, 100%, 92%);
    
   }
 
@@ -10,7 +10,7 @@
     padding: 10px;
     margin-bottom: 10px;
     border: solid 3px #ffffff;
-    background-color: hsl(327, 90%, 92%);
+    background-color: hsl(295, 90%, 92%);
    
   }
 
@@ -29,7 +29,102 @@
     padding: 10px;
     margin-bottom: 10px;
     border: solid 3px #ffffff;
-    background-color: hsl(307, 72%, 89%);
+    background-color: hsl(330, 34%, 84%);
    
   }
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #ffdee9, #b5fffc);
+  font-size: larger;
+  color: #333;
+  text-align: center;
+  padding: 20px;
+}
+
+#Output {
+  margin-top: 30px;
+  background: rgb(255, 213, 234);
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+#button {
+  background-color: #f25ca7;
+  color: white;
+  padding: 10px 20px;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+#button:hover {
+  transform: scale(1.1);
+  background-color: #ff1493;
+}
+
+#output h1 {
+  margin-top: 20px;
+  animation: fadeInUp 1s ease-out;
+  color: #ff1493;
+}
+
+.harry {
+    color: #ec4899; /* pink */
+    font-weight: bold;
+    background: rgba(255, 192, 203, 0.2);
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.louis {
+    color: #3b82f6; /* blue */
+    font-style: italic;
+    background: rgba(173, 216, 230, 0.2);
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.zayn {
+    color: #2d4d8c; /* cool gray */
+    background: rgba(200, 200, 200, 0.15);
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.niall {
+    color: #0d8f63; /* green */
+    font-weight: bold;
+    background: rgba(144, 238, 144, 0.2);
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.liam {
+    color: #a73e6c; /* gray */
+    background: rgba(211, 211, 211, 0.1);
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+
+#member-image {
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  display: block;
+  margin: 20px auto;
+  transition: transform 0.3s ease;
+}
+
+#member-image:hover {
+  transform: scale(1.05);
+}
 
