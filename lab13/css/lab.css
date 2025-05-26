@@ -1,0 +1,34 @@
+#Challenge {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 3px #ffffff;
+    background-color: hsl(45, 100%, 92%);
+   
+  }
+
+  #Problems {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 3px #ffffff;
+    background-color: hsl(295, 90%, 92%);
+   
+  }
+
+
+  #Results {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 3px #ffffff;
+    background-color: hsl(123, 59%, 87%);
+   
+  }
+
+
+
+  #Output {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 3px #ffffff;
+    background-color: hsl(168, 100%, 91%);
+   
+  }
