@@ -9,8 +9,16 @@
    
   }
 
+  #Challenge {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 3px #ffffff;
+    background-color: hsl(45, 100%, 92%);
+    text-align:start
+  }
   pre {
     text-align: center;
     white-space: pre-wrap;
     word-break: keep-all
 }
+
