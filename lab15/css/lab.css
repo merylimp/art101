@@ -1,0 +1,53 @@
+#Challenge {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 3px #ffffff;
+    background-color: hsl(45, 100%, 92%);
+   
+  }
+
+  #Problems {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 3px #ffffff;
+    background-color: hsl(295, 90%, 92%);
+   
+  }
+
+
+  #Results {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 3px #ffffff;
+    background-color: hsl(123, 59%, 87%);
+   
+  }
+
+
+
+  #Output {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 3px #ffffff;
+    background-color: hsl(168, 100%, 91%);
+   
+  }
+
+  #activate {
+  background-color: #908bc3;       
+  color: white;                   
+  border: none;                    
+  border-radius: 25px;             /* Rounded edges */
+  padding: 12px 24px;              /* Space inside button */
+  font-size: 16px;                 /* Text size */
+  font-weight: bold;               /* Make text a bit bolder */
+  cursor: pointer;                 /* Hand cursor on hover */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow */
+  margin-top: 10px;                /* Space from top */
+}
+
+#activate:hover {
+  background-color: #605c91;       /* Darker pink on hover */
+  transform: scale(1.05);          /* Slight zoom effect */
+}
+
